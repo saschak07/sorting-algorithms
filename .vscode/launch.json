@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/src/QuickSort/QuickSort.js"
+            "program": "${workspaceFolder}/src/MergeSort/MergeSort.js"
         }
     ]
 }
